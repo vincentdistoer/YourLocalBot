@@ -1,0 +1,9 @@
+Command raised an exception: ExtensionNotFound: Extension 'cogs.de' could not be loaded.
+=========================
+INFO:
+
+Author: EEKIM10_YT#4015 (421698654189912064)
+Command: r
+Channel: ylb-gc (592870650394181659)
+Guild: DragDev Studios (486910899756728320)
+Timestamp: 02:45 AM @ 01/08/2019 

@@ -1,0 +1,10 @@
+{
+  "fight": {
+    "top": null,
+    "users": {}
+    },
+  "banned":{
+    "guilds": {},
+    "users" : {}
+  }
+}

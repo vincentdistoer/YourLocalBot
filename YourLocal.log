@@ -1,0 +1,38 @@
+2019-08-19 23:33:24,604:INFO:discord.client: logging in using static token
+2019-08-19 23:33:26,530:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+2019-08-19 23:33:26,532:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2019-08-19 23:33:26,946:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-g2l4",{"micros":106545,"calls":["discord-sessions-prd-1-5",{"micros":102940,"calls":["start_session",{"micros":21957,"calls":["api-prd-main-6r88",{"micros":19392,"calls":["get_user",{"micros":2516},"add_authorized_ip",{"micros":1037},"get_guilds",{"micros":3716},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":27,"calls":[]},"presence_connect",{"micros":0,"calls":[]}]}]}] (Session ID: a0eb9692902b38bdbdc35c2a927bf096).
+2019-08-19 23:33:31,129:INFO:discord.state: Processed a chunk for 550 members in guild ID 467136815070183425.
+2019-08-19 23:33:31,156:INFO:discord.state: Processed a chunk for 441 members in guild ID 486910899756728320.
+2019-08-19 23:33:31,287:INFO:discord.state: Processed a chunk for 748 members in guild ID 497689134463188993.
+2019-08-19 23:33:31,417:INFO:discord.state: Processed a chunk for 1000 members in guild ID 454933217666007052.
+2019-08-19 23:33:31,427:INFO:discord.state: Processed a chunk for 331 members in guild ID 454933217666007052.
+2019-08-19 23:33:31,470:INFO:discord.state: Processed a chunk for 1000 members in guild ID 343572980351107077.
+2019-08-19 23:33:31,488:INFO:discord.state: Processed a chunk for 1000 members in guild ID 343572980351107077.
+2019-08-19 23:33:31,509:INFO:discord.state: Processed a chunk for 1000 members in guild ID 343572980351107077.
+2019-08-19 23:33:31,529:INFO:discord.state: Processed a chunk for 1000 members in guild ID 343572980351107077.
+2019-08-19 23:33:31,548:INFO:discord.state: Processed a chunk for 1000 members in guild ID 343572980351107077.
+2019-08-19 23:33:31,570:INFO:discord.state: Processed a chunk for 1000 members in guild ID 343572980351107077.
+2019-08-19 23:33:31,599:INFO:discord.state: Processed a chunk for 1000 members in guild ID 343572980351107077.
+2019-08-19 23:33:31,619:INFO:discord.state: Processed a chunk for 1000 members in guild ID 343572980351107077.
+2019-08-19 23:33:31,648:INFO:discord.state: Processed a chunk for 1000 members in guild ID 343572980351107077.
+2019-08-19 23:33:31,667:INFO:discord.state: Processed a chunk for 1000 members in guild ID 343572980351107077.
+2019-08-19 23:33:31,674:INFO:discord.state: Processed a chunk for 366 members in guild ID 343572980351107077.
+2019-08-19 23:33:31,697:INFO:discord.state: Processed a chunk for 1000 members in guild ID 582682665400926209.
+2019-08-19 23:33:31,697:INFO:discord.state: Processed a chunk for 23 members in guild ID 582682665400926209.
+2019-08-19 23:33:31,719:INFO:discord.state: Processed a chunk for 1000 members in guild ID 336642139381301249.
+2019-08-19 23:33:31,737:INFO:discord.state: Processed a chunk for 1000 members in guild ID 336642139381301249.
+2019-08-19 23:33:31,753:INFO:discord.state: Processed a chunk for 1000 members in guild ID 336642139381301249.
+2019-08-19 23:33:31,774:INFO:discord.state: Processed a chunk for 1000 members in guild ID 336642139381301249.
+2019-08-19 23:33:31,810:INFO:discord.state: Processed a chunk for 1000 members in guild ID 336642139381301249.
+2019-08-19 23:33:31,828:INFO:discord.state: Processed a chunk for 1000 members in guild ID 336642139381301249.
+2019-08-19 23:33:31,846:INFO:discord.state: Processed a chunk for 1000 members in guild ID 336642139381301249.
+2019-08-19 23:33:31,862:INFO:discord.state: Processed a chunk for 1000 members in guild ID 336642139381301249.
+2019-08-19 23:33:31,879:INFO:discord.state: Processed a chunk for 1000 members in guild ID 336642139381301249.
+2019-08-19 23:33:31,895:INFO:discord.state: Processed a chunk for 1000 members in guild ID 336642139381301249.
+2019-08-19 23:33:31,913:INFO:discord.state: Processed a chunk for 1000 members in guild ID 336642139381301249.
+2019-08-19 23:33:31,928:INFO:discord.state: Processed a chunk for 938 members in guild ID 336642139381301249.
+2019-08-20 00:15:15,487:INFO:discord.client: Received signal to terminate bot and event loop.
+2019-08-20 00:15:15,487:INFO:discord.client: Cleaning up tasks.
+2019-08-20 00:15:15,489:INFO:discord.client: Cleaning up after 8 tasks.
+2019-08-20 00:15:15,579:INFO:discord.client: Closing the event loop.

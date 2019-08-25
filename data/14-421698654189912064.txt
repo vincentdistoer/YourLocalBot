@@ -1,0 +1,9 @@
+Command raised an exception: SyntaxError: invalid syntax (dev.py, line 228)
+=========================
+INFO:
+
+Author: EEKIM10_YT#4015 (421698654189912064)
+Command: r
+Channel: ylb-gc (592870650394181659)
+Guild: DragDev Studios (486910899756728320)
+Timestamp: 03:58 AM @ 01/08/2019 

@@ -1,0 +1,82 @@
+{
+  "486910899756728320": {
+    "warns": {
+      "2": {
+        "type": "warn",
+        "author": [
+          "EEKIM10_YT#4015",
+          421698654189912064
+        ],
+        "target": [
+          "BxPanxi#9140",
+          179049652606337024
+        ],
+        "reason": "Give me these EXTRA modes",
+        "timestamp": "2019-07-30 23:13:50.315998"
+      },
+      "3": {
+        "type": "warn",
+        "author": [
+          "EEKIM10_YT#4015",
+          421698654189912064
+        ],
+        "target": [
+          "EEKIM10_YT#4015",
+          421698654189912064
+        ],
+        "reason": "dasdasdasdasdasd",
+        "timestamp": "2019-07-30 23:35:37.794140",
+        "modlog_msg": [
+          605906382851538954,
+          "https://discordapp.com/channels/486910899756728320/566471451528658964/605906382851538954",
+          {
+  "486910899756728320": {
+    "warns": {
+      "2": {
+        "type": "warn",
+        "author": [
+          "EEKIM10_YT#4015",
+          421698654189912064
+        ],
+        "target": [
+          "BxPanxi#9140",
+          179049652606337024
+        ],
+        "reason": "Give me these EXTRA modes",
+        "timestamp": "2019-07-30 23:13:50.315998"
+      },
+      "3": {
+        "type": "warn",
+        "author": [
+          "EEKIM10_YT#4015",
+          421698654189912064
+        ],
+        "target": [
+          "EEKIM10_YT#4015",
+          421698654189912064
+        ],
+        "reason": "dasdasdasdasdasd",
+        "timestamp": "2019-07-30 23:35:37.794140"
+      }
+    },
+    "mutes": {},
+    "unmutes": {
+      "1": {
+        "type": "unmute",
+        "author": [
+          "EEKIM10_YT#4015",
+          421698654189912064
+        ],
+        "target": [
+          "9420!#9420",
+          533039055059812362
+        ],
+        "reason": "No reason provided!",
+        "timestamp": "2019-07-30 23:12:43.128179"
+      }
+    },
+    "kicks": {},
+    "bans": {},
+    "id": 3
+  }
+}
