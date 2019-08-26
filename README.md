@@ -2,15 +2,15 @@
 ### known as one of the greatest dragdev bots ever!
 
 ## A few opening notes...
-So i made the bot open source as per the tradition of [DragDev Studios](https://dragdev.xyz). I never expected this many people to want the code for it so that they can use their own, or even learn from it.
-First of all, THE TOKEN IS NOT A REAL TOKEN! if you remove the `.`s from it and decode it [here](https://www.base64decode.org/), you will kinda get a funny message.
-Second, im fluent in spaghetti code. if thats an issue for you, i wouldn't recommend this.
-Third, i don't understand half of this. i just write it and pray that it works. This code spans back from the discord.py early rewrite alpha builds, and was last updated on to discord.py `1.2.3`.
-Finally: if you decide to run your own version of this bot ([see me](https://github.com/dragdev/YourLocalBot#running-your-own)), i request that you give me some sort of credit somewhere in the bot. even if its as simple as putting the [website url (https://dragdev.xyz)](https://dragdev.xyz). thanks.
+So i made the bot open source as per the tradition of [DragDev Studios](https://dragdev.xyz). I never expected this many people to want the code for it so that they can use their own, or even learn from it.\
+First of all, THE TOKEN IS NOT A REAL TOKEN! if you remove the `.`s from it and decode it [here](https://www.base64decode.org/), you will kinda get a funny message.\
+Second, im fluent in spaghetti code. if thats an issue for you, i wouldn't recommend this.\
+Third, i don't understand half of this. i just write it and pray that it works. This code spans back from the discord.py early rewrite alpha builds, and was last updated on to discord.py `1.2.3`.\
+Finally: if you decide to run your own version of this bot ([see me](https://github.com/dragdev/YourLocalBot#running-your-own)), i request that you give me some sort of credit somewhere in the bot. even if its as simple as putting the [website url (https://dragdev.xyz)](https://dragdev.xyz). thanks.\
 
 ## Running your own
-Now many people want to run their own local bot. well, its not as easy as downloading, unzipping and running.
-[The bot uses a lot of these custom checks](https://github.com/dragdev/YourLocalBot/blob/master/utils/checks.py), which are hardcoded with IDs to ensure the saftey.
+Now many people want to run their own local bot. well, its not as easy as downloading, unzipping and running. z
+[The bot uses a lot of these custom checks](https://github.com/dragdev/YourLocalBot/blob/master/utils/checks.py), which are hardcoded with IDs to ensure the saftey.\
 also in the [Boot file], the owner ID is set to MY ID. this means if i find your instance, and you havent changed that ID, i could do anything with your instance. not that i would. all you need to do, is replace the ID after `owner_id=` to YOUR ID. note it cant have "quotes" which makes it a string.
 as for the checks file you will want to find where it says
 ```python
