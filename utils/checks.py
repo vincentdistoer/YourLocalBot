@@ -123,4 +123,4 @@ def gcadmin():
 		else:
 			return False
 
-	return commands.check(predicate)
+	return commands.check(predicate) #
