@@ -34,5 +34,12 @@ you will want to replace the IDs to give yourself access/remove the above users 
 *note that whatever comes after the : doesnt matter, the bot doesnt check that.*
 
 ### actually setting up
-*[There is a video tutorial here](https://dragdev.xyz/404)*
-1) please wait while i make this
+*[There is a video tutorial here](https://www.youtube.com/watch?v=x9NOJ2o7yXY&feature=youtu.be)*
+1) click `clone or download`, `download ZIP`
+2) wait for it to download if ur internet a snail
+3) unzip it and copy the files inside, or rename the folder.
+4) open command prompt/console
+5) cd to the downloaded and unzipped location
+6) if you are on windows, run `py makeitwork.py`, else run `python3 makeitwork.py`.
+**Notes:**\
+This checklist only covers RUNNING the bot. you need to change the token n stuff yourself.
