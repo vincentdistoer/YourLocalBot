@@ -1,0 +1,6 @@
+youtube_dl
+pip
+psutil
+dblpy
+jishaku
+discord.py
