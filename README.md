@@ -30,3 +30,9 @@ def co_owner():
 		return ctx.author.id in list(c.keys()) or ctx.author.id == ctx.bot.owner_id
 	return commands.check(predicate)
 ```
+you will want to replace the IDs to give yourself access/remove the above users access
+*note that whatever comes after the : doesnt matter, the bot doesnt check that.*
+
+### actually setting up
+*[There is a video tutorial here](https://dragdev.xyz/404)*
+1) please wait while i make this
