@@ -35,6 +35,7 @@ you will want to replace the IDs to give yourself access/remove the above users 
 
 ### actually setting up
 *[There is a video tutorial here](https://www.youtube.com/watch?v=x9NOJ2o7yXY&feature=youtu.be)*
+0) go to requirements.txt and pip install everything in it
 1) click `clone or download`, `download ZIP`
 2) wait for it to download if ur internet a snail
 3) unzip it and copy the files inside, or rename the folder.
