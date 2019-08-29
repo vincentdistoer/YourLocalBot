@@ -9,7 +9,7 @@ Third, i don't understand half of this. i just write it and pray that it works. 
 Finally: if you decide to run your own version of this bot ([see me](https://github.com/dragdev/YourLocalBot#running-your-own)), i request that you give me some sort of credit somewhere in the bot. even if its as simple as putting the [website url (https://dragdev.xyz)](https://dragdev.xyz). thanks.\
 \
 **dont** ask me for help on this
-**Unless you explicity state that your instance is a clone of this bot, and link the origional github (this) and site (https://dragdev.xyz), you are forbidden from uploading your own instance to a bot list.**
+**Unless you explicity state that your instance is a clone of this bot, and link the origional github (this) and site (https://dragdev.xyz) (in the submission description), you are forbidden from uploading your own instance to a bot list.**
 
 ## Running your own
 Now many people want to run their own local bot. well, its not as easy as downloading, unzipping and running. z
