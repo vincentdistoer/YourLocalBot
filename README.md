@@ -8,7 +8,7 @@ Second, im fluent in spaghetti code. if thats an issue for you, i wouldn't recom
 Third, i don't understand half of this. i just write it and pray that it works. This code spans back from the discord.py early rewrite alpha builds, and was last updated on to discord.py `1.2.3`.\
 Finally: if you decide to run your own version of this bot ([see me](https://github.com/dragdev/YourLocalBot#running-your-own)), i request that you give me some sort of credit somewhere in the bot. even if its as simple as putting the [website url (https://dragdev.xyz)](https://dragdev.xyz). thanks.\
 \
-**dont** ask me for help on this
+**dont** ask me for help on this \
 **Unless you explicity state that your instance is a clone of this bot, and link the origional github (this) and site (https://dragdev.xyz) (in the submission description), you are forbidden from uploading your own instance to a bot list.**
 
 ## Running your own
