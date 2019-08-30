@@ -8,8 +8,18 @@ Second, im fluent in spaghetti code. if thats an issue for you, i wouldn't recom
 Third, i don't understand half of this. i just write it and pray that it works. This code spans back from the discord.py early rewrite alpha builds, and was last updated on to discord.py `1.2.3`.\
 Finally: if you decide to run your own version of this bot ([see me](https://github.com/dragdev/YourLocalBot#running-your-own)), i request that you give me some sort of credit somewhere in the bot. even if its as simple as putting the [website url (https://dragdev.xyz)](https://dragdev.xyz). thanks.\
 \
-**dont** ask me for help on this \
-**Unless you explicity state that your instance is a clone of this bot, and link the origional github (this) and site (https://dragdev.xyz) (in the submission description), you are forbidden from uploading your own instance to a bot list.**
+### requirements:
+If you do run your own instance it is required that you put this repo (https://github.com/dragdev/yourlocalbot) and our website (https://dragdev.xyz) in either an embed or in plain text. an example of an embed is below: \
+```py
+	e = discord.Embed(title="credits:", description="Source Github Repo: [click me](https://github.com/dragdev/yourlocalbot)\nCreator's website: [click me](https://dragdev.xyz)", url='https://dragdev.xyz', color=0x7594ff)
+	return await ctx.send(embed=e)
+```
+an example in plain text is:
+```py
+	x = "Source Git Repo: https://github.com/dragdev/yourlocalbot\nCreator's website: https://dragdev.xyz"
+	return await ctx.send(x)
+```
+this is required under the license.
 
 ## Running your own
 Now many people want to run their own local bot. well, its not as easy as downloading, unzipping and running. z
