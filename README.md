@@ -7,9 +7,9 @@ First of all, THE TOKEN IS NOT A REAL TOKEN! if you remove the `.`s from it and 
 Second, im fluent in spaghetti code. if thats an issue for you, i wouldn't recommend this.\
 Third, i don't understand half of this. i just write it and pray that it works. This code spans back from the discord.py early rewrite alpha builds, and was last updated on to discord.py `1.2.3`.\
 Finally: if you decide to run your own version of this bot ([see me](https://github.com/dragdev/YourLocalBot#running-your-own)), i request that you give me some sort of credit somewhere in the bot. even if its as simple as putting the [website url (https://dragdev.xyz)](https://dragdev.xyz). thanks.\
-\
+
 ### requirements:
-If you do run your own instance it is required that you put this repo (https://github.com/dragdev/yourlocalbot) and our website (https://dragdev.xyz) in either an embed or in plain text. an example of an embed is below: \
+If you do run your own instance it is required that you know advanced python (i will not help you) and put this repo (https://github.com/dragdev/yourlocalbot) and our website (https://dragdev.xyz) in either an embed or in plain text. an example of an embed is below: \
 ```py
 	e = discord.Embed(title="credits:", description="Source Github Repo: [click me](https://github.com/dragdev/yourlocalbot)\nCreator's website: [click me](https://dragdev.xyz)", url='https://dragdev.xyz', color=0x7594ff)
 	return await ctx.send(embed=e)
